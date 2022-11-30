@@ -1,0 +1,15 @@
+C:\Users\pc\Desktop\Houmwork_4_2\Domzadanie4\obj\Debug\net7.0\Domzadanie4.csproj.AssemblyReference.cache
+C:\Users\pc\Desktop\Houmwork_4_2\Domzadanie4\obj\Debug\net7.0\Domzadanie4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\Desktop\Houmwork_4_2\Domzadanie4\obj\Debug\net7.0\Domzadanie4.AssemblyInfoInputs.cache
+C:\Users\pc\Desktop\Houmwork_4_2\Domzadanie4\obj\Debug\net7.0\Domzadanie4.AssemblyInfo.cs
+C:\Users\pc\Desktop\Houmwork_4_2\Domzadanie4\obj\Debug\net7.0\Domzadanie4.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\Houmwork_4_2\Domzadanie4\bin\Debug\net7.0\Domzadanie4.exe
+C:\Users\pc\Desktop\Houmwork_4_2\Domzadanie4\bin\Debug\net7.0\Domzadanie4.deps.json
+C:\Users\pc\Desktop\Houmwork_4_2\Domzadanie4\bin\Debug\net7.0\Domzadanie4.runtimeconfig.json
+C:\Users\pc\Desktop\Houmwork_4_2\Domzadanie4\bin\Debug\net7.0\Domzadanie4.dll
+C:\Users\pc\Desktop\Houmwork_4_2\Domzadanie4\bin\Debug\net7.0\Domzadanie4.pdb
+C:\Users\pc\Desktop\Houmwork_4_2\Domzadanie4\obj\Debug\net7.0\Domzadanie4.dll
+C:\Users\pc\Desktop\Houmwork_4_2\Domzadanie4\obj\Debug\net7.0\refint\Domzadanie4.dll
+C:\Users\pc\Desktop\Houmwork_4_2\Domzadanie4\obj\Debug\net7.0\Domzadanie4.pdb
+C:\Users\pc\Desktop\Houmwork_4_2\Domzadanie4\obj\Debug\net7.0\Domzadanie4.genruntimeconfig.cache
+C:\Users\pc\Desktop\Houmwork_4_2\Domzadanie4\obj\Debug\net7.0\ref\Domzadanie4.dll
